@@ -9,13 +9,9 @@
 
 @media (min-width:320px) {
   /* smartphones, iPhone, portrait 480x320 phones */
-  .alert-Text {
-    color: #182a47;
-  }
   body{
-    background-color: aliceblue;
+    background-color: #404454;
   }
-
 }
 
 @media (min-width:481px) {
@@ -32,9 +28,9 @@
 
 @media (min-width:1025px) {
   /* big landscape tablets, laptops, and desktops */
+  
 }
 
 @media (min-width:1281px) {
   /* hi-res laptops and desktops */
-
 }
