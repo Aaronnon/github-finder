@@ -9,9 +9,6 @@
 
 @media (min-width:320px) {
   /* smartphones, iPhone, portrait 480x320 phones */
-  body{
-    background-color: #404454;
-  }
 }
 
 @media (min-width:481px) {
