@@ -49,3 +49,10 @@
 @media (max-width:1281px) {
   /* hi-res laptops and desktops */
 }
+
+.badge-container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
