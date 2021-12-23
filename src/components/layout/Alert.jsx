@@ -21,7 +21,7 @@ function Alert() {
             ></path>
           </svg>
         )}
-        <span className='flex-1 text-base font-semibold leading-7 text-white'>
+        <span className=' mx-autoflex-1 text-base font-semibold leading-7 text-white'>
           <strong>{alert.msg}</strong>
         </span>
       </p>
