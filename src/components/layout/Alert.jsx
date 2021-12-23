@@ -25,7 +25,7 @@ function Alert() {
           <strong>{alert.msg}</strong>
         </span>
       </p>
-    ): <p className='h-11 flex-1 text-base font-semibold leading-7 text-white'></p>
+    ): <p className='h-12 flex-1 text-base font-semibold leading-7 text-white'></p>
   )
 }
 
